@@ -7,12 +7,12 @@ int main()
     setlocale(LC_ALL, "Rus");
     int n;
     double product = 1.0;
-    printf("Введите n: ");
+    printf("Р’РІРµРґРёС‚Рµ n: ");
     scanf("%d", &n);
     for (int k = 2; k <= n; k++) 
     {
         product = product * (1.0 - 1.0 / (k * k));
     }
-    printf("Результат: %.10f\n", product);
+    printf("Р РµР·СѓР»СЊС‚Р°С‚: %.10f\n", product);
     return 0;
 }
