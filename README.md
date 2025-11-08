@@ -4,7 +4,7 @@
 
 
 ### Блок-схема:
-<img width="2084" height="2084" alt="image" src="https://github.com/user-attachments/assets/bbaa8ff7-128e-44a9-bcde-20e794355633" />
+<img width="1872" height="2704" alt="image" src="https://github.com/user-attachments/assets/d31e4d5f-0d35-405f-a4b2-e748daeb75ec" />
 
 
 ### Программа
