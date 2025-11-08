@@ -1,7 +1,7 @@
 # Домашнее задание к работе № 8
 ### Условие : 
-Вычислите с использованием цикла for значение для заданного n
-<img width="292" height="85" alt="image" src="https://github.com/user-attachments/assets/d69b8eca-da57-4c7f-88f7-cc21437a386a" />
+<img width="670" height="132" alt="image" src="https://github.com/user-attachments/assets/ab377938-0e2f-4e4d-a87f-d9299d897d94" />
+
 
 ### Блок-схема:
 <img width="2084" height="2084" alt="image" src="https://github.com/user-attachments/assets/bbaa8ff7-128e-44a9-bcde-20e794355633" />
